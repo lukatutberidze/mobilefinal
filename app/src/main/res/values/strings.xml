@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">finalproject</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="bnm_home">Home</string>
+    <string name="bnm_calendar">Calendar</string>
+    <string name="bnm_list">List</string>
+    <string name="bnm_ticket">Ticket</string>
+    <string name="bnm_stack">Stack</string>
+    <string name="bnm_selected">—</string>
+
+    <string name="btn_stack_submit">Submit Leave</string>
+
+    <string name="tl_review">Review</string>
+    <string name="tl_approved">Approved</string>
+    <string name="tl_rejected">Rejected</string>
+
+
+    <string name="tv_rev_leave_submitted">Leave Submitted</string>
+    <string name="tv_rev_leave_information">Leave Information</string>
+    <string name="tv_rev_no_leave_submitted">No Leave Submitted!</string>
+    <string name="tv_rev_leave_description">Ready to catch fresh air? Click &quot;Submit Leave&quot; and\ntake that well-deserved break!</string>
+
+
+    <string name="tv_double_check">Double-check your leave details to ensure everything is correct. Do you want to proceed</string>
+    <string name="tv_yes_submit">Yes, Submit</string>
+    <string name="tv_no_check">No, Let me check</string>
+
+    <string name="stack_leave_summary">Leave Summary</string>
+    <string name="stack_submit_leave">Submit Leave</string>
+    <string name="stack_total_leave">Total Leave</string>
+    <string name="stack_leave_period">Period 1 Jan 2024 – 30 Dec 2024</string>
+    <string name="stack_leave_available">Available</string>
+    <string name="stack_leave_used">Leave Used</string>
+    <string name="stack_leave_available_amount">20</string>
+    <string name="stack_leave_used_amount">2</string>
+</resources>
